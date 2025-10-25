@@ -42,10 +42,10 @@
 </section>
 <section>
 <h2>Contacto</h2>
-<p>Si deseas contactarme para compartir una reflexión, solicitar acompañamiento espiritual, o conocer más sobre la Sinceritas Trinitaria, puedes escribirme a: <strong>juanluisguerreroofm@example.com</strong></p>
+<p>Si deseas contactarme para compartir una reflexión, solicitar acompañamiento espiritual, o conocer más sobre la Sinceritas Trinitaria, puedes escribirme a: <strong>jguerrero@friars.us                
 </section>
 <footer>
-<p>© 2024 Juan Luis Guerrero, OFM. Todos los derechos reservados.</p>
+<p>© 2025 Juan Luis Guerrero, OFM. Todos los derechos reservados.</p>
 </footer>
 </body>
 </html>
